@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Gazorpazorp",
+    "imagem": "https://rickandmortyapi.com/api/location/40"
+  },
+
+  {
+    "name": "Earth (Wasp Dimension)",
+    "image": "https://rickandmortyapi.com/api/character/avatar/517.jpeg"
+  },
+  
+  {
+    "name": "Earth (Replacement Dimension)",
+    "image": "https://rickandmortyapi.com/api/character/avatar/517.jpeg"
+  }
+]

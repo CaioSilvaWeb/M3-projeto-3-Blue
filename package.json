@@ -1,0 +1,29 @@
+{
+  "name": "m3-projeto1-blue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioSilvaWeb/M3-projeto1-Blue.git"
+  },
+  "author": "Caio Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaioSilvaWeb/M3-projeto1-Blue/issues"
+  },
+  "homepage": "https://github.com/CaioSilvaWeb/M3-projeto1-Blue#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.2",
+    "nit": "^0.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
